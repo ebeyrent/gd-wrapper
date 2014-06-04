@@ -1,0 +1,25 @@
+{
+    "name": "ebeyrent/GdWrapper",
+    "description": "Provides a PSR-compatible wrapper around GD2",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Erich Beyrent",
+            "email": "erich.beyrent@beyrent.net"
+        }
+    ],
+    "keywords": ["library", "GD"],
+    "homepage": "https://github.com/ebeyrent/GdWrapper",
+    "autoload": {
+        "psr-0": {"GdWrapper": "src"}
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ebeyrent/GdWrapper.git"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
