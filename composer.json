@@ -1,5 +1,5 @@
 {
-    "name": "ebeyrent/GdWrapper",
+    "name": "ebeyrent/gd-wrapper",
     "description": "Provides a PSR-compatible wrapper around GD2",
     "minimum-stability": "stable",
     "authors": [
@@ -9,14 +9,14 @@
         }
     ],
     "keywords": ["library", "GD"],
-    "homepage": "https://github.com/ebeyrent/GdWrapper",
+    "homepage": "https://github.com/ebeyrent/gd-wrapper",
     "autoload": {
         "psr-0": {"GdWrapper": "src"}
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/ebeyrent/GdWrapper.git"
+            "url": "https://github.com/ebeyrent/gd-wrapper.git"
         }
     ],
     "require": {
